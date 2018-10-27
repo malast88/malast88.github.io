@@ -1,0 +1,10 @@
+title: Stanislavs Malahvejs personal site
+email: malast88@gmail.com
+description: >-
+  This is just a simple personal site and blog to track my progress in learning,
+  collect useful links and thoughts
+baseurl: ""
+url: "https://malast88.github.io/"
+markdown: kramdown
+theme: jekyll-theme-primer
+repository: malast88/malast88.github.io
