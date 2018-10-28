@@ -3,6 +3,7 @@ layout: post
 title: Finished AWS Essentials course at Linux Academy
 tags: [aws, course, linuxacademy]
 ---
+# Just finished AWS Essentials course from Linux Academy
 Course consists of a good explanation of AWS basics, shown from the perspective of building small project from scratch. 
 It also contains some practice exercises, provided on the real temporary AWS environment.
 That's why it is actually quite longer than 8 hours.
