@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Achievements and certificates
 ---
 # List of achievements and certificates

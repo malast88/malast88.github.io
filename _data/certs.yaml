@@ -1,4 +1,5 @@
 - date: 5 Mar 2015
+  id: ms-cert-prof # keep id unique
   issuer: 
     title: Microsoft
     url: https://www.microsoft.com
@@ -14,6 +15,7 @@
     type: PDF
 
 - date: 5 Mar 2015
+  id: ms-spec-csharp # keep id unique
   issuer: 
     title: Microsoft
     url: https://www.microsoft.com
@@ -29,6 +31,7 @@
     type: PDF
   
 - date: 22 Jul 2017
+  id: hr-wof-34 # keep id unique
   issuer: 
     title: HackerRank
     url: https://www.hackerrank.com
@@ -41,6 +44,7 @@
   filePNG: https://drive.google.com/uc?export=view&id=1Xm1lJaaGxxL8yFlSD5EPdtKPTCWxITW7
 
 - date: 7 Aug 2017
+  id: hr-101h-51 # keep id unique
   issuer: 
     title: HackerRank
     url: https://www.hackerrank.com
@@ -53,6 +57,7 @@
   filePNG: https://drive.google.com/uc?export=view&id=1hRbHaNg9R76r39M42_8n8ENXyr4hBozZ
 
 - date: 16 Jun 2018
+  id: ly-spring-tdd # keep id unique
   issuer: 
     title: Lynda.com
     url: https://www.lynda.com
@@ -69,6 +74,7 @@
     type: PDF
 
 - date: 17 Jun 2018
+  id: ly-patterns # keep id unique
   issuer: 
     title: Lynda.com
     url: https://www.lynda.com
@@ -85,6 +91,7 @@
     type: PDF
 
 - date: 24 Jun 2018
+  id: ly-gradle # keep id unique
   issuer: 
     title: Lynda.com
     url: https://www.lynda.com
@@ -101,6 +108,7 @@
     type: PDF
   
 - date: 10 Jul 2018
+  id: ly-spring-boot # keep id unique
   issuer: 
     title: Lynda.com
     url: https://www.lynda.com
@@ -117,6 +125,7 @@
     type: PDF
    
 - date: 25 Sep 2018
+  id: mu-m101j # keep id unique
   issuer: 
     title: MongoDB University
     url: https://university.mongodb.com/
@@ -129,4 +138,20 @@
   filePNG: https://drive.google.com/uc?export=view&id=1aHbzx0C6jojqWG_QcvD7GSfOBnpqCGAn
   fileOriginal: 
     url: https://drive.google.com/uc?export=view&id=13aFWF1HSy5g7_iPWAypI85Dk6euF3eUw    
+    type: PDF
+   
+- date: 14 Oct 2018
+  id: la-aws-essentials # keep id unique
+  issuer: 
+    title: Linux Academy
+    url: https://linuxacademy.com
+  title: "Successful Completion of the Training Course: AWS Essentials"
+  url: https://linuxacademy.com/profile/u/cert/id/154332
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1fLSr5Ooxxfkdc53rnuh-hWHsAp-BkyFy
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1Vjfj_Fz4yAuqphbX8MEecFCgsYONHGuD
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1qvZodkW_1n16v6N3eu-z4Gb7iSe9oFdH    
     type: PDF
