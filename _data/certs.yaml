@@ -1,0 +1,132 @@
+- date: 5 Mar 2015
+  issuer: 
+    title: Microsoft
+    url: https://www.microsoft.com
+  title: Microsoft Certified Professional
+  number: F211-6359
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1stVTwCT-rbKatLPqk3q74Zx65YStPLBf
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=13avSYAaIboFVPBX8RfW86GUH0ptLKwHs
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1ekU_v97rdc0Xte4Gg6m6YXcHWraG8zMI
+    type: PDF
+
+- date: 5 Mar 2015
+  issuer: 
+    title: Microsoft
+    url: https://www.microsoft.com
+  title: "Microsoft Specialist: Programming in C#"
+  number: F211-6361
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1dsnTkMwvGsqsP_8JpQk6i1MWzQ6_V4AD
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1zPnBUVdvyGdXe9VTXeJflJRcP8SLwdtz
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1SmE_HghBSsgnDQZVKAW5OXRsb-XctooN
+    type: PDF
+  
+- date: 22 Jul 2017
+  issuer: 
+    title: HackerRank
+    url: https://www.hackerrank.com
+  title: A silver medal in Week of Code 34
+  url: https://www.hackerrank.com/results/w34/malast88
+  thumbnail: 
+    url: https://hrcdn.net/social_badges/silver_big.png
+    width: 100px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1Xm1lJaaGxxL8yFlSD5EPdtKPTCWxITW7
+
+- date: 7 Aug 2017
+  issuer: 
+    title: HackerRank
+    url: https://www.hackerrank.com
+  title: A silver medal in 101 Hack 51
+  url: https://www.hackerrank.com/results/101hack51/malast88
+  thumbnail: 
+    url: https://hrcdn.net/social_badges/silver_big.png
+    width: 100px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1hRbHaNg9R76r39M42_8n8ENXyr4hBozZ
+
+- date: 16 Jun 2018
+  issuer: 
+    title: Lynda.com
+    url: https://www.lynda.com
+  title: "Certificate of Completion - Spring: Test-Driven Development with JUnit"
+  number: BF8975A31CD649D39E29A824E3B96728
+  url: https://www.lynda.com/ViewCertificate/BF8975A31CD649D39E29A824E3B96728?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1IbOjC0l4PJ50yGZDslxwctZo-FLsFBCS
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1FsMVYwhNEi52Ap-bYdQ_rCeeyNC0WFT-
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1cir_iWofjuwFHDJHy_O47chknbQiV1lM
+    type: PDF
+
+- date: 17 Jun 2018
+  issuer: 
+    title: Lynda.com
+    url: https://www.lynda.com
+  title: "Certificate of Completion - Programming Foundations: Design Patterns"
+  number: E0B41DD3531441ACB03301CC2D07BFBE
+  url: https://www.lynda.com/ViewCertificate/E0B41DD3531441ACB03301CC2D07BFBE?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1AIJ71bENrILUoZ_Sms530BwOtCevnbXT
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1cG5_hlnkfYY6gwmFXpBqCo-KMl_ghPn6
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1Pv8jCf0uAz2LV0HxUyFwrWKftcZ9ow6u
+    type: PDF
+
+- date: 24 Jun 2018
+  issuer: 
+    title: Lynda.com
+    url: https://www.lynda.com
+  title: Certificate of Completion - Gradle for Java Developers
+  number: 53CF6C52E6A54EEC9271DE9D1C3CB8BA
+  url: https://www.lynda.com/ViewCertificate/53CF6C52E6A54EEC9271DE9D1C3CB8BA?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1ci03Ytl4GSScvY4vLU2uzw8l9lSZOpew
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1hDtFD88OhlOjGdMOoiEuc9zZeKAY9p6Q
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1LvYMnVLIw1yAn4AfS0njjp8LdG018I1p
+    type: PDF
+  
+- date: 10 Jul 2018
+  issuer: 
+    title: Lynda.com
+    url: https://www.lynda.com
+  title: Certificate of Completion - Learning Spring with Spring Boot
+  number: 8031E42F351947388AF3A7CF8A2CFB17
+  url: https://www.lynda.com/ViewCertificate/8031E42F351947388AF3A7CF8A2CFB17?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1QCHv2_DPCnSM9BSelPrFPAJo_uLyDB2g
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1QG6Hzcac3OBdF0vUV7WqqB4IwmEBb3ZC
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1xbqpmx8d79dj4Rhd2m9qiE97IA2q70qR
+    type: PDF
+   
+- date: 25 Sep 2018
+  issuer: 
+    title: MongoDB University
+    url: https://university.mongodb.com/
+  title: "Course Completion Confirmation - M101J: MongoDB for Java Developers"
+  url: https://university.mongodb.com/course_completion/fc368f38-54cb-4cfe-a6e2-a478b4ee/printable
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=19PA0_yVjrZCMLh2eUeLJVXmokVl2UmJf
+    width: 100px
+    height: 140px
+  filePNG: https://drive.google.com/uc?export=view&id=1aHbzx0C6jojqWG_QcvD7GSfOBnpqCGAn
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=13aFWF1HSy5g7_iPWAypI85Dk6euF3eUw    
+    type: PDF
