@@ -155,3 +155,19 @@
   fileOriginal: 
     url: https://drive.google.com/uc?export=view&id=1qvZodkW_1n16v6N3eu-z4Gb7iSe9oFdH    
     type: PDF
+   
+- date: 29 Oct 2018
+  id: la-git # keep id unique
+  issuer: 
+    title: Linux Academy
+    url: https://linuxacademy.com
+  title: "Successful Completion of the Training Course: Source Control with Git"
+  url: https://linuxacademy.com/profile/u/cert/id/156787
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1knh2aAkF9q-re5otKE5vBm6V1ipmSW1c
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=175BCxGeGHiI4kIEZZtfdlmNfl05WsdR_
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1oXSShBfIFvFve8Di9jwDRL0zJagbVB6F  
+    type: PDF
