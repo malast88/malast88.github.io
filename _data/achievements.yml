@@ -171,3 +171,19 @@
   fileOriginal: 
     url: https://drive.google.com/uc?export=view&id=1oXSShBfIFvFve8Di9jwDRL0zJagbVB6F  
     type: PDF
+   
+- date: 5 Nov 2018
+  id: la-cicd-pipeline # keep id unique
+  issuer: 
+    title: Linux Academy
+    url: https://linuxacademy.com
+  title: "Successful Completion of the Training Course: Implementing a Full CI/CD Pipeline"
+  url: https://linuxacademy.com/profile/u/cert/id/158006
+  thumbnail: 
+    url: https://drive.google.com/uc?export=view&id=1iI-r4gsUW8JJ3jUM54R7flhlDLfmFXmC
+    width: 140px
+    height: 100px
+  filePNG: https://drive.google.com/uc?export=view&id=1box_I06GAzpr_81uJfXoC7fzLFCkL4BC
+  fileOriginal: 
+    url: https://drive.google.com/uc?export=view&id=1T-W9diSeR4xvU0F52EVH8Z3gYIUL8JJI
+    type: PDF

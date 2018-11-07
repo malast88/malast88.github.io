@@ -7,7 +7,7 @@ This is just a simple personal site and blog to track my progress in learning, c
 
 # About me
 
-[Achievements and certificates](certs.md)
+[Achievements and certificates](achievements.md)
 
 # Posts
 <ul>
