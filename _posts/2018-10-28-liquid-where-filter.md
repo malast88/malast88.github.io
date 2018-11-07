@@ -10,7 +10,7 @@ There are already many awesome articles about extended Jekyll's filters, like [t
 but here I've documented my personal experience with them.
 
 # An example from this blog
-So in this blog I have created the data collection called [certs](https://github.com/malast88/malast88.github.io/blob/master/_data/certs.yaml),
+So in this blog I have created the data collection called [achievements](https://github.com/malast88/malast88.github.io/blob/master/_data/achievements.yaml),
 which holds the various properties of certificates I've achieved, for example:
 ```
 - date: 14 Oct 2018
@@ -27,9 +27,9 @@ The question was - how to get the particular item? Liquid allows indexing of arr
 So Jekyll's where filter to rescue: how it actually looks in the page's source code 
 (used [this](https://stackoverflow.com/questions/3426182/how-to-escape-liquid-template-tags) answer to escape Liquid tags):
 ```
-{{ "{%" }} assign cert = site.data.certs | where: "id","la-aws-essentials" | first "%}
-[Certificate URl]({{"{{"}} cert.url }})
-![Certificate screenshot]({{"{{"}} cert.filePNG }})
+{{ "{%" }} assign achievement = site.data.achievements | where: "id","la-aws-essentials" | first "%}
+[Certificate URl]({{"{{"}} achievement.url }})
+![Certificate screenshot]({{"{{"}} achievement.filePNG }})
 ```
 So I've introduced the new field id (do not want to filter on longer field title) and assigned a variable.
 The only trick is that where filter returns the array, but I need a single object so apply another filter "first" to retrieve it.

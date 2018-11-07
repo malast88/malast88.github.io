@@ -12,9 +12,9 @@ I would say this basic course from Linux Academy is much better than one from [t
 It is well structured and assembled with some practical details which are necessary to understand the topic.
 At the same time, it appears balanced and not overloaded by technical stuff, every thing is on its place.
 
-{% assign cert = site.data.certs | where: "id","la-aws-essentials" | first %}
+{% assign achievement = site.data.achievements | where: "id","la-aws-essentials" | first %}
 
-[Certificate URl]({{ cert.url }})
+[Certificate URl]({{ achievement.url }})
 
-![Certificate screenshot]({{ cert.filePNG }})
+![Certificate screenshot]({{ achievement.filePNG }})
 

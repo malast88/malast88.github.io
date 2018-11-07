@@ -8,9 +8,9 @@ Well, not so much to say - the majority of the material I knew and actively used
 The only exception - GitLab chapter.
 At least now I have some proof that I actually know something about Git.
 
-{% assign cert = site.data.certs | where: "id","la-git" | first %}
+{% assign achievement = site.data.achievements | where: "id","la-git" | first %}
 
-[Certificate URl]({{ cert.url }})
+[Certificate URl]({{ achievement.url }})
 
-![Certificate screenshot]({{ cert.filePNG }})
+![Certificate screenshot]({{ achievement.filePNG }})
 
