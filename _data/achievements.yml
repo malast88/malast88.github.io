@@ -1,6 +1,6 @@
 - date: 5 Mar 2015
   id: ms-cert-prof # keep id unique
-  issuer: 
+  issuer: &issuer-ms
     title: Microsoft
     url: https://www.microsoft.com
   title: Microsoft Certified Professional
@@ -16,9 +16,7 @@
 
 - date: 5 Mar 2015
   id: ms-spec-csharp # keep id unique
-  issuer: 
-    title: Microsoft
-    url: https://www.microsoft.com
+  issuer: *issuer-ms
   title: "Microsoft Specialist: Programming in C#"
   number: F211-6361
   thumbnail: 
@@ -32,7 +30,7 @@
   
 - date: 22 Jul 2017
   id: hr-wof-34 # keep id unique
-  issuer: 
+  issuer: &issuer-hr
     title: HackerRank
     url: https://www.hackerrank.com
   title: A silver medal in Week of Code 34
@@ -45,9 +43,7 @@
 
 - date: 7 Aug 2017
   id: hr-101h-51 # keep id unique
-  issuer: 
-    title: HackerRank
-    url: https://www.hackerrank.com
+  issuer: *issuer-hr
   title: A silver medal in 101 Hack 51
   url: https://www.hackerrank.com/results/101hack51/malast88
   thumbnail: 
@@ -58,7 +54,7 @@
 
 - date: 16 Jun 2018
   id: ly-spring-tdd # keep id unique
-  issuer: 
+  issuer: &issuer-ly
     title: Lynda.com
     url: https://www.lynda.com
   title: "Certificate of Completion - Spring: Test-Driven Development with JUnit"
@@ -75,9 +71,7 @@
 
 - date: 17 Jun 2018
   id: ly-patterns # keep id unique
-  issuer: 
-    title: Lynda.com
-    url: https://www.lynda.com
+  issuer: *issuer-ly
   title: "Certificate of Completion - Programming Foundations: Design Patterns"
   number: E0B41DD3531441ACB03301CC2D07BFBE
   url: https://www.lynda.com/ViewCertificate/E0B41DD3531441ACB03301CC2D07BFBE?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
@@ -92,9 +86,7 @@
 
 - date: 24 Jun 2018
   id: ly-gradle # keep id unique
-  issuer: 
-    title: Lynda.com
-    url: https://www.lynda.com
+  issuer: *issuer-ly
   title: Certificate of Completion - Gradle for Java Developers
   number: 53CF6C52E6A54EEC9271DE9D1C3CB8BA
   url: https://www.lynda.com/ViewCertificate/53CF6C52E6A54EEC9271DE9D1C3CB8BA?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
@@ -109,9 +101,7 @@
   
 - date: 10 Jul 2018
   id: ly-spring-boot # keep id unique
-  issuer: 
-    title: Lynda.com
-    url: https://www.lynda.com
+  issuer: *issuer-ly
   title: Certificate of Completion - Learning Spring with Spring Boot
   number: 8031E42F351947388AF3A7CF8A2CFB17
   url: https://www.lynda.com/ViewCertificate/8031E42F351947388AF3A7CF8A2CFB17?utm_source=directlink&utm_medium=sharing&utm_campaign=certificate
@@ -142,7 +132,7 @@
    
 - date: 14 Oct 2018
   id: la-aws-essentials # keep id unique
-  issuer: 
+  issuer: &issuer-la
     title: Linux Academy
     url: https://linuxacademy.com
   title: "Successful Completion of the Training Course: AWS Essentials"
@@ -158,9 +148,7 @@
    
 - date: 29 Oct 2018
   id: la-git # keep id unique
-  issuer: 
-    title: Linux Academy
-    url: https://linuxacademy.com
+  issuer: *issuer-la
   title: "Successful Completion of the Training Course: Source Control with Git"
   url: https://linuxacademy.com/profile/u/cert/id/156787
   thumbnail: 
@@ -174,9 +162,7 @@
    
 - date: 5 Nov 2018
   id: la-cicd-pipeline # keep id unique
-  issuer: 
-    title: Linux Academy
-    url: https://linuxacademy.com
+  issuer: *issuer-la
   title: "Successful Completion of the Training Course: Implementing a Full CI/CD Pipeline"
   url: https://linuxacademy.com/profile/u/cert/id/158006
   thumbnail: 
